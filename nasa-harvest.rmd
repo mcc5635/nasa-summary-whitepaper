@@ -17,8 +17,6 @@ Leveraging NOAA/MODIS and Landsat data, we enhanced the robustness of our convol
 - **NOAA/MODIS Data**: Aggregated over 500 terabytes of ocean temperature and surface water data, spanning a 20-year period.
 - **Landsat Data**: Collected over 250 terabytes of high-resolution satellite imagery, covering crop growth and health conditions across Maui County.
 
-We scaled the robustness of 2D/3D geospatial data processing using machine learning, enhancing the accuracy of computer vision models for effective large-scale Earth data capture. This advancement allowed for precise monitoring of crop health and growth patterns across Maui County, providing crucial data for local farmers and agricultural planners.
-
 Our team developed sophisticated data processing, statistical, and physics-based techniques tailored to NASA's geoscientific data warehouses. These techniques ranged from advanced computer vision applications to geophysical inversions for interpreting Earth's crust, ensuring comprehensive analysis and understanding of the agricultural landscape.
 
 ### Impact on Food Insecurity in Maui County
